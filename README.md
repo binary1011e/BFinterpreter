@@ -1,2 +1,2 @@
 # BFinterpreter
-interpreter for the BrainF.BF language
+Interpreter for Brain**** in java
